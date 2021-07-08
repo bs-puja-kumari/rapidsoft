@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rapidsoft/static/css/main.64b35a0c.chunk.css",
+    "main.js": "/rapidsoft/static/js/main.2512a974.chunk.js",
+    "main.js.map": "/rapidsoft/static/js/main.2512a974.chunk.js.map",
+    "runtime-main.js": "/rapidsoft/static/js/runtime-main.722bd546.js",
+    "runtime-main.js.map": "/rapidsoft/static/js/runtime-main.722bd546.js.map",
+    "static/js/2.1e1d8a62.chunk.js": "/rapidsoft/static/js/2.1e1d8a62.chunk.js",
+    "static/js/2.1e1d8a62.chunk.js.map": "/rapidsoft/static/js/2.1e1d8a62.chunk.js.map",
+    "static/js/3.3ac43d1e.chunk.js": "/rapidsoft/static/js/3.3ac43d1e.chunk.js",
+    "static/js/3.3ac43d1e.chunk.js.map": "/rapidsoft/static/js/3.3ac43d1e.chunk.js.map",
+    "index.html": "/rapidsoft/index.html",
+    "static/css/main.64b35a0c.chunk.css.map": "/rapidsoft/static/css/main.64b35a0c.chunk.css.map",
+    "static/js/2.1e1d8a62.chunk.js.LICENSE.txt": "/rapidsoft/static/js/2.1e1d8a62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.722bd546.js",
+    "static/js/2.1e1d8a62.chunk.js",
+    "static/css/main.64b35a0c.chunk.css",
+    "static/js/main.2512a974.chunk.js"
+  ]
+}
